@@ -1,0 +1,19 @@
+json
+{
+  "categories": [
+    {
+      "name": "Plats du jour",
+      "items": [
+        { "name": "Ndolé aux crevettes", "description": "Servi avec plantains mûrs ou bâtons de manioc.", "price": 3500 },
+        { "name": "Poulet DG", "description": "Poulet braisé, légumes sautés, bananes plantains.", "price": 4000 }
+      ]
+    },
+    {
+      "name": "Grillades",
+      "items": [
+        { "name": "Poisson braisé", "description": "Poisson entier braisé aux épices de Mamie Ma’a.", "price": 4500 },
+        { "name": "Brochettes de bœuf", "description": "Accompagnées de plantains ou frites.", "price": 3000 }
+      ]
+    }
+  ]
+}
