@@ -1,4 +1,4 @@
-javascript
+
 document.getElementById('year').textContent = new Date().getFullYear();
 
 async function loadMenu() {
