@@ -1,4 +1,4 @@
-JS
+js
 console.log('app.js chargé');
 document.getElementById('year').textContent = new Date().getFullYear();
 
