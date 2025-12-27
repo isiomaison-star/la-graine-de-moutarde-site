@@ -4,15 +4,15 @@
     {
       "name": "Plats du jour",
       "items": [
-        { "name": "Bouillon de jarêt de boeuf", "description": "Servi avec plantains mûrs ou bâtons de manioc.", "price": 1500 },
-        { "name": "Poulet braisé aux albergines exotiques", "description": "Poulet braisé, bâtons de manioc, pommes frites.", "price": 1500 }
+        { "name": "Bouillon de jarêt de boeuf", "description": "Servi avec plantains mûrs ou bâtons de manioc.", "price": 2000 },
+        { "name": "Poulet braisé aux albergines exotiques", "description": "Poulet braisé, bâtons de manioc, pommes frites.", "price": 2000 }
       ]
     },
     {
       "name": "Grillades",
       "items": [
-        { "name": "Poisson braisé", "description": "Poisson entier braisé aux épices de Mamie Ma’a.", "price": 1500 },
-        { "name": "Taro à la sauce jaune", "description": "Accompagnées de plantains ou frites.", "price": 2500 }
+        { "name": "Poisson braisé", "description": "Poisson entier braisé aux épices de Mamie Ma’a.", "price": 2000 },
+        { "name": "Taro à la sauce jaune", "description": "Accompagnées de plantains ou frites.", "price": 3000 }
       ]
     }
   ]
