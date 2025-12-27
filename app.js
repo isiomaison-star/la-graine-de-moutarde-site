@@ -1,5 +1,5 @@
 // js
-console.log('app.js chargé');
+// console.log('app.js chargé');
 document.getElementById('year').textContent = new Date().getFullYear();
 
 async function loadMenu() {
